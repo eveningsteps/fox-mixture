@@ -4,7 +4,7 @@ defmodule HackerRank.HelloWorldNTimes do
 
   def replicate_out(n) do
     IO.puts("Hello World")
-    out(n - 1)
+    replicate_out(n - 1)
   end
 
   def main() do
