@@ -37,3 +37,4 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)
 - [String Compression](https://www.hackerrank.com/challenges/string-compression/problem)
 - [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)
+- [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem)
