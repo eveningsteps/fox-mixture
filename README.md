@@ -38,3 +38,4 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [String Compression](https://www.hackerrank.com/challenges/string-compression/problem)
 - [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)
 - [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem)
+- [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem)
