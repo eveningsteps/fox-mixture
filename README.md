@@ -39,3 +39,8 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression/problem)
 - [Rotate String](https://www.hackerrank.com/challenges/rotate-string/problem)
 - [String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute/problem)
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+- [Designer PDF viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
