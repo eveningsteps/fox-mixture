@@ -44,3 +44,5 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 - [Designer PDF viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+- [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
+- [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)
