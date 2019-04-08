@@ -46,3 +46,4 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
 - [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)
+- [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)
