@@ -47,3 +47,6 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)
 - [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)
+- [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)
+- [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)
+- [Dice Path](https://www.hackerrank.com/challenges/dice-path/problem)
