@@ -52,3 +52,4 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Dice Path](https://www.hackerrank.com/challenges/dice-path/problem)
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
 - [Valid BST](https://www.hackerrank.com/challenges/valid-bst/problem)
+- [Tree manager](https://www.hackerrank.com/challenges/tree-manager/problem)
