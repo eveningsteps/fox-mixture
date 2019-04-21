@@ -53,3 +53,4 @@ be found at [https://hexdocs.pm/hackerrank](https://hexdocs.pm/hackerrank).
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
 - [Valid BST](https://www.hackerrank.com/challenges/valid-bst/problem)
 - [Tree manager](https://www.hackerrank.com/challenges/tree-manager/problem)
+- [Password Cracker FP](https://www.hackerrank.com/challenges/password-cracker-fp/problem)
