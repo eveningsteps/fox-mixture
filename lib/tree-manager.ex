@@ -100,8 +100,11 @@ defmodule HackerRank.TreeManager do
   end
 
   def insert_child([current | stack], value) do
-    new_index = map_size(current.node.children) + 1
-    new_children = Map.put(current.node.children, new_index, make_node(value))
+    new_children =
+      Map.put(
+        shift(current.node.children, 1, :right),
+        1, make_node(value)
+      )
     [make_frame(current.index, make_node(current.node.value, new_children)) | stack]
   end
 
@@ -130,13 +133,18 @@ defmodule HackerRank.TreeManager do
     )
   end
 
+  def apply_many(commands) do
+    commands
+    |> Enum.reduce(
+        initial_state(),
+        fn operation, state -> modify_state(state, operation) end
+      )
+  end
+
   def main() do
     _ = IO.read(:line)
     IO.read(:all)
       |> String.split("\n", trim: true)
-      |> Enum.reduce(
-        initial_state(),
-        fn operation, state -> modify_state(state, operation) end
-      )
+      |> apply_many()
   end
 end

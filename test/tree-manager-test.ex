@@ -23,7 +23,7 @@ defmodule HackerRank.TreeManager.Test do
     many_children_2 = Enum.reduce(
       10..2, new_state,
       fn x, acc ->
-        HackerRank.TreeManager.insert_right(acc, x)
+        HackerRank.TreeManager.insert_left(acc, x)
       end)
     assert many_children_2 |> HackerRank.TreeManager.visit_parent() == many_children
 
@@ -33,7 +33,7 @@ defmodule HackerRank.TreeManager.Test do
     many_children_3 = Enum.reduce(
       1..9, new_state,
       fn x, acc ->
-        HackerRank.TreeManager.insert_left(acc, x)
+        HackerRank.TreeManager.insert_right(acc, x)
       end)
     assert many_children_3 |> HackerRank.TreeManager.visit_parent() == many_children
 
