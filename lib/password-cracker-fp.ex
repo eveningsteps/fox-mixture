@@ -8,7 +8,7 @@ defmodule HackerRank.PasswordCrackerFP do
       true ->
         {_, uncracked} = String.split_at(attempt, String.length(head))
         case solve(passwords, passwords, uncracked) do
-          nil -> nil
+          nil -> solve(passwords, tail, attempt)
           v -> [head | v]
         end
     end
